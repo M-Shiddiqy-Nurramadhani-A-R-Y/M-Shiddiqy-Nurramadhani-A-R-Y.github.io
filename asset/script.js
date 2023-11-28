@@ -588,7 +588,7 @@ function btn_one() {
         recognition.start();
 
         
-    }, time += 25000);
+    }, time += 35000);
 
 
 
