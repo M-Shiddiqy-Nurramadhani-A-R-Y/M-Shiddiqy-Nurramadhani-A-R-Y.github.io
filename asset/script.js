@@ -165,17 +165,11 @@ function btn_one() {
     setTimeout(function(){
 
         // = CLICK ==============================================================
-        divflame.addEventListener('click', lilin_dimatikan {
-            //alert("lilin_dimatikan 111");
-        });
+        divflame.addEventListener('click', lilin_dimatikan );
 
-        divflame2.addEventListener('click', lilin_dimatikan {
-            //alert("lilin_dimatikan 222");
-        });
+        divflame2.addEventListener('click', lilin_dimatikan );
 
-        divflame3.addEventListener('click', lilin_dimatikan {
-            //alert("lilin_dimatikan 333");
-        });
+        divflame3.addEventListener('click', lilin_dimatikan );
 
         function lilin_dimatikan() {
 
